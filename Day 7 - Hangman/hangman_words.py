@@ -1,0 +1,22 @@
+word_list = [
+    "apfel","auto","banane","ball","baum","bett","blume","boot","brot","buch",
+    "computer","dach","ente","erde","fisch","flugzeug","fenster","garten","gabel","geld",
+    "hand","haus","hund","huhn","insel","jacke","junge","kaffee","katze","kerze",
+    "kind","kino","kugel","lampe","leiter","lehrer","licht","maus","mensch","messe",
+    "mutter","nacht","nadel","nase","ofen","onkel","orange","pferd","pilz","polizei",
+    "radio","ring","rose","sack","sanduhr","sauer","schaf","schiff","schule","schnee",
+    "stuhl","stern","strasse","stein","tante","tasche","teller","tiger","tisch","tor",
+    "uhr","urlaub","vater","vogel","wald","wasser","welt","wolke","wurm","zahn",
+    "zebra","zeit","zug","zwerg","acker","alpen","anker","ast","bach","bahn",
+    "berg","blatt","boden","bogen","brille","bus","dose","drach","drache","ei",
+    "eis","ente","erbe","farbe","fass","feld","feuer","finger","flasche","fliege",
+    "fluss","fuchs","futter","geige","geld","glanz","glocke","glueck","gold","gras",
+    "hammer","herd","herz","himmel","hirsch","hobby","honig","hose","huhn","idee",
+    "igel","insel","jahr","jagd","joker","kamm","kerl","kleid","knopf","korn",
+    "kuchen","kuh","kunst","lamm","laune","leben","leiter","lippe","loch","luft",
+    "markt","milch","mond","musik","netz","ofen","ohr","olive","oma","opa",
+    "palme","papier","puppe","rad","reifen","reise","rolle","rose","ruhe","salz",
+    "sand","schloss","schirm","schrank","schuh","segel","seife","seil","semmel","stern",
+    "stift","strand","strauch","stuhl","tafel","tanze","teich","ton","turm","tuer",
+    "vallei","verband","villa","wache","wagen","welle","wind","wort","wurst","zelt"
+]
