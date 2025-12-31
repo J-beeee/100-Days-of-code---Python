@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+body {
+    background-color: black;
+    text-align: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 100vh;
+
+}  
+#front-page img {
+    border: 5px solid white;
+}
+#front-page h1 {
+    color: white;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-transform: uppercase;
+    
+}
+#front-page p {
+    color: rgb(255, 255, 255);
+}
